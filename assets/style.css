@@ -1,0 +1,72 @@
+.title {
+    color: brown;
+    margin-bottom: 10px;
+}
+
+.firstWrap {
+    background-color: darkgrey;
+}
+
+body {
+    background-color: bisque;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    color: darkmagenta;
+}
+
+.image {
+    width: 400px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+h1,
+h2 {
+    margin: 0;
+}
+
+.box {
+    background-color: aquamarine;
+    width: 400px;
+    padding: 20px;
+    margin-bottom: 30px;
+    border: 5px solid green;
+}
+
+.box_2 {
+    background-color: rgb(127 219 255);
+    width: 400px;
+    padding: 20px;
+    margin-bottom: 30px;
+    border: 5px solid green;
+}
+
+.ice {
+    color: blueviolet;
+    font-size: 110%;
+}
+
+.btn {
+    width: 200;
+    height: 50;
+    background-color: black;
+    color: azure;
+    font-size: large;
+}
+
+.btn:hover {
+    background-color: azure;
+    color: black;
+}
